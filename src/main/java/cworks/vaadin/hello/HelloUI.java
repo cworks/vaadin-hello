@@ -12,8 +12,7 @@ import com.vaadin.ui.VerticalLayout;
 @Title("Hello from my little Vaadin UI")
 @Theme("valo")
 public class HelloUI extends UI {
-
-
+    
     @Override
     protected void init(VaadinRequest request) {
         // create the content root layout for the UI
